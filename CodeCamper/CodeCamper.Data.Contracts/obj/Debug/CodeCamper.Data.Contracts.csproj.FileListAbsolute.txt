@@ -1,0 +1,7 @@
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.dll
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.pdb
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.dll
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.pdb
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.csprojResolveAssemblyReference.cache
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
+D:\MyProjects\LEARN\Single Page Apps with HTML5, Web API, Knockout and jQuery\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb
